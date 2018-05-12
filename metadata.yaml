@@ -1,0 +1,27 @@
+_repo: Settlers-and-Scouts_39161
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39161-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/39124
+    - http://en.wikipedia.org/wiki/Herbert_Strang
+description: ''
+gutenberg_issued: '2012-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39161'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, East -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Settlers and Scouts: A Tale of the African Highlands'
+url: http://www.gutenberg.org/ebooks/39161
